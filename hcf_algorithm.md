@@ -1,4 +1,4 @@
-#Highest Common Factor Algorithm
+# Highest Common Factor Algorithm
 
 ## What is in this document:
   * HCF Algorithm Idea
