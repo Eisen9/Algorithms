@@ -15,9 +15,9 @@ Note: if the idea is not clear, you will find it clearer in the pseudo code.
 
 ### Pseudo Code Annotated
 
-/*
+
 For simplicity, we will initialise the values of the two numbers for which we are going to find the HCF. In your code, it is better that you take the user inputs and save them to variables.
-*/
+
 
 ```
 // we set a flag. I.e we loop as long as the HCF isn't found
