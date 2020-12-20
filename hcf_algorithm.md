@@ -27,9 +27,9 @@ found = false
 x = 12
 y = 8
 
-// we set the value of i (the counter) to x. This is where we start //// incrementing from.
+// we set the value of i (the counter) to x. This is where we start incrementing from.
 
-// we create a while loop. We loop as long as value is greater than //// 1, and found is false.
+// we create a while loop. We loop as long as value is greater than 1, and found is false.
 
 while(i>= 1 && found == false){
     if(x%i == 0 && y%i == 0){
