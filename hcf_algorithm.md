@@ -28,6 +28,7 @@ x = 12
 y = 8
 
 // we set the value of i (the counter) to x. This is where we start incrementing from.
+i = x
 
 // we create a while loop. We loop as long as value is greater than 1, and found is false.
 
