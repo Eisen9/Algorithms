@@ -35,12 +35,13 @@ i = x
 while(i>= 1 && found == false){
     if(x%i == 0 && y%i == 0){
         found = true
+        Print("HCF for ", x, " and ", y, " is ", i )
     } else {
         i--
     }
 }
 
-Print("HCF for ", x, " and ", y, " is ", i )
+
 
 ```
 
@@ -55,9 +56,10 @@ found = False
 while i >= 1 and found == False:
     if(x%i==0 and y%i==0):
         found = True
+        print(i)
     else:
         i= i -1
 
-print(i)
+
 
 ```
