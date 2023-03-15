@@ -8,7 +8,7 @@
 ### Idea
 
 We want to find the HCF for two numbers by using the modulus operator.
-I.e. When the two numbers have a modulus of 0 then a common factor is found.
+I.e., when the two numbers have a modulus of 0 then a common factor is found.
 
 To achieve this, we want to create a counter that is set to the highest common factor value, then decrement this counter until the first instance of (x%i==0 && y%i==0), when this first encounter is found, then, this is going to be our HCF.
 Note: if the idea is not clear, you will find it clearer in the pseudo code.
@@ -20,7 +20,7 @@ For simplicity, we will initialise the values of the two numbers for which we ar
 
 
 ```
-// we set a flag. I.e we loop as long as the HCF isn't found
+// we set a flag. 
 found = false
 
 // we initialise the variables (two numbers for the HCF)
